@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5BE615814498FE42C91929CE3F11EBB01FC565F1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "88F421A0B79618D1D3CC9C7CDE195BA046429686" : 0,
+    "5BE615814498FE42C91929CE3F11EBB01FC565F1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "33504DEA-5E1F-4527-B7DA-DC1FB56888BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "88F421A0B79618D1D3CC9C7CDE195BA046429686" : "PlaylistBrowserSwift",
+    "5BE615814498FE42C91929CE3F11EBB01FC565F1" : "Algorhythm\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PlaylistBrowserSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PlaylistBrowserSwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mikepitre\/algorhythm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BE615814498FE42C91929CE3F11EBB01FC565F1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/treehouse\/playlistBrowserSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88F421A0B79618D1D3CC9C7CDE195BA046429686"
+    }
+  ]
+}
