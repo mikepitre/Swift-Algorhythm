@@ -15,6 +15,8 @@
 		8FE2AB5E1BA87C11006B8E3E /* AlgorhythmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE2AB5D1BA87C11006B8E3E /* AlgorhythmTests.swift */; };
 		8FE2AB691BA87C11006B8E3E /* AlgorhythmUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE2AB681BA87C11006B8E3E /* AlgorhythmUITests.swift */; };
 		8FE2AB771BA87EB4006B8E3E /* PlaylistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE2AB761BA87EB4006B8E3E /* PlaylistDetailViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8FE2AB791BA91A42006B8E3E /* MusicLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE2AB781BA91A42006B8E3E /* MusicLibrary.swift */; settings = {ASSET_TAGS = (); }; };
+		8FE2AB7B1BA91C33006B8E3E /* Playlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE2AB7A1BA91C32006B8E3E /* Playlist.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		8FE2AB681BA87C11006B8E3E /* AlgorhythmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorhythmUITests.swift; sourceTree = "<group>"; };
 		8FE2AB6A1BA87C11006B8E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FE2AB761BA87EB4006B8E3E /* PlaylistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistDetailViewController.swift; sourceTree = "<group>"; };
+		8FE2AB781BA91A42006B8E3E /* MusicLibrary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicLibrary.swift; sourceTree = "<group>"; };
+		8FE2AB7A1BA91C32006B8E3E /* Playlist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Playlist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				8FE2AB4A1BA87C10006B8E3E /* PlaylistMasterViewController.swift */,
 				8FE2AB761BA87EB4006B8E3E /* PlaylistDetailViewController.swift */,
 				8FE2AB4C1BA87C10006B8E3E /* Main.storyboard */,
+				8FE2AB781BA91A42006B8E3E /* MusicLibrary.swift */,
+				8FE2AB7A1BA91C32006B8E3E /* Playlist.swift */,
 				8FE2AB4F1BA87C10006B8E3E /* Assets.xcassets */,
 				8FE2AB511BA87C10006B8E3E /* LaunchScreen.storyboard */,
 				8FE2AB541BA87C10006B8E3E /* Info.plist */,
@@ -261,6 +267,8 @@
 				8FE2AB771BA87EB4006B8E3E /* PlaylistDetailViewController.swift in Sources */,
 				8FE2AB4B1BA87C10006B8E3E /* PlaylistMasterViewController.swift in Sources */,
 				8FE2AB491BA87C10006B8E3E /* AppDelegate.swift in Sources */,
+				8FE2AB791BA91A42006B8E3E /* MusicLibrary.swift in Sources */,
+				8FE2AB7B1BA91C33006B8E3E /* Playlist.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -485,6 +493,7 @@
 				8FE2AB6F1BA87C11006B8E3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8FE2AB701BA87C11006B8E3E /* Build configuration list for PBXNativeTarget "AlgorhythmTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +502,7 @@
 				8FE2AB721BA87C11006B8E3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8FE2AB731BA87C11006B8E3E /* Build configuration list for PBXNativeTarget "AlgorhythmUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +511,7 @@
 				8FE2AB751BA87C11006B8E3E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
